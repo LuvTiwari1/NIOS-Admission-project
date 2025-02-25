@@ -65,7 +65,7 @@ header{
 .nios_admission_img{
     height: 500px;
     /* background-color: aqua; */
-    background-image: url("office.jpg");
+    background-image: url("../img/office.webp");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -80,7 +80,7 @@ header{
     height: 100%;
     width: 100%;
     /* background-color: rgba(255, 0, 0, 0.5); */
-    background-image: url("hero.png");
+    background-image: url("../img/hero.webp");
 }
 .btn1{
     height: 50px;
@@ -148,7 +148,7 @@ header{
     height: 330px;
     width: 100%;
     /* background-color: aqua; */
-    background-image: url("add.jpg");
+    background-image: url("../img/add.webp");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -159,7 +159,7 @@ header{
     height: 100%;
     width: 100%;
     /* background-color: rgba(255, 0, 0, 0.5); */
-    background-image: url("img2.png");
+    background-image: url("../img/img2.webp");
 }
 
 .notification_text{
